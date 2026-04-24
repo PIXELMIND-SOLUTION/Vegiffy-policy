@@ -6,11 +6,11 @@ const TermsandConditions = () => {
             <div className="row justify-content-center">
                 <div className="col-xl-10 col-lg-11 col-12">
                     <h1 className="mb-4 text-center fw-bold" style={{ color: "#2b2b2b" }}>
-                        Terms and Conditions - Vegiffyy
+                        Terms and Conditions - Vegiffy
                     </h1>
                     <p>
                         These Terms and Conditions ("Terms") govern your use of the{" "}
-                        <strong>Vegiffyy</strong> application and services ("App"). By accessing or using the App,
+                        <strong>Vegiffy</strong> application and services ("App"). By accessing or using the App,
                         you agree to comply with and be bound by these Terms.
                     </p>
 
@@ -25,7 +25,7 @@ const TermsandConditions = () => {
                     <div className="mb-4">
                         <h4 className="fw-semibold">2. Eligibility</h4>
                         <p>
-                            You must be 16 years or older, or have guardian consent, to use Vegiffyy.
+                            You must be 16 years or older, or have guardian consent, to use Vegiffy.
                         </p>
                     </div>
 
@@ -50,7 +50,7 @@ const TermsandConditions = () => {
                     <div className="mb-4">
                         <h4 className="fw-semibold">5. Content Ownership</h4>
                         <p>
-                            You own your shared data. By using Vegiffyy, you give us rights to use it for service
+                            You own your shared data. By using Vegiffy, you give us rights to use it for service
                             delivery, operations, and improvements.
                         </p>
                     </div>
@@ -74,7 +74,7 @@ const TermsandConditions = () => {
                     <div className="mb-4">
                         <h4 className="fw-semibold">8. Limitation of Liability</h4>
                         <p>
-                            Vegiffyy is not liable for delays, incorrect deliveries, or system failures. Use is at your own risk.
+                            Vegiffy is not liable for delays, incorrect deliveries, or system failures. Use is at your own risk.
                         </p>
                     </div>
 
@@ -90,12 +90,12 @@ const TermsandConditions = () => {
                         <p>
                             For queries, email us at:{" "}
                             <a
-                                href="mailto:support@vegiffyy.com"
+                                href="mailto:info@vegiffy.com"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-decoration-none text-primary"
                             >
-                                support@vegiffyy.com
+                                info@vegiffy.com
                             </a>
                         </p>
                     </div>

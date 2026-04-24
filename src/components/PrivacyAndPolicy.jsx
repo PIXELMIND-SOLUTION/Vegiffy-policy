@@ -70,8 +70,8 @@ const PrivacyAndPolicy = () => {
                     </ul>
                     <p>
                         Email us at:{" "}
-                        <a href="mailto:support@vegiffyy.com" className="text-success fw-semibold">
-                            support@vegiffyy.com
+                        <a href="mailto:info@vegiffy.com" className="text-success fw-semibold">
+                            info@vegiffy.com
                         </a>
                     </p>
                 </>
@@ -92,7 +92,7 @@ const PrivacyAndPolicy = () => {
             title: "7. Children's Privacy",
             content: (
                 <p>
-                    Vegiffyy is intended for users aged 18+. We do not knowingly collect data from
+                    Vegiffy is intended for users aged 18+. We do not knowingly collect data from
                     children below 18 without parental consent.
                 </p>
             ),
@@ -113,8 +113,8 @@ const PrivacyAndPolicy = () => {
             content: (
                 <p>
                     For any queries, contact:{" "}
-                    <a href="mailto:support@vegiffyy.com" className="text-success fw-semibold">
-                        support@vegiffyy.com
+                    <a href="mailto:info@vegiffy.com" className="text-success fw-semibold">
+                        info@vegiffy.com
                     </a>
                 </p>
             ),
@@ -151,7 +151,7 @@ const PrivacyAndPolicy = () => {
                     borderBottomRightRadius: "40px",
                 }}
             >
-                <h1 className="fw-bold">Vegiffyy - Privacy Policy</h1>
+                <h1 className="fw-bold">Vegiffy - Privacy Policy</h1>
                 <p className="mt-2" style={{ opacity: 0.9 }}>
                     Your trust is our priority. We keep your data safe & secure.
                 </p>
